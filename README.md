@@ -10,9 +10,9 @@ Note that the hostname-matching is simple: hostnames must match an entry in the 
 To try out this extension:
 * install it
 * visit `about:debugging`
-* Go to This Firefox
-* Load Temporary Add-on
-* Select the maifest.json file
+* goto This Firefox
+* select Load Temporary Add-on
+* select the maifest.json file
 * visit `http://example.com` and see it is blocked
 * visit `about:addons`, open the add-on's preferences, and change the hostnames in the text box
 * visit some pages to see the effect of your changes.
